@@ -1,7 +1,7 @@
 ---
 title: "Activity 1.2 - RStudio and R Markdown"
-author: "Bradford Dykes"
-date: "8/26/2019"
+author: "Placid Ugoagwu"
+date: "8/29/2019"
 output: html_document
 ---
 
