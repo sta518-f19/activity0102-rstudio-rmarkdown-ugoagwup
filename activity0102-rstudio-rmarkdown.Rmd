@@ -69,7 +69,7 @@ star_data %>%
 ### Exercise 4
 
 (Add code and narrative as needed. Note that two R chunks are given but they are not labeled. Use the convention from above to name them appropriately.)
-
+Nice!
 ```{r plot-circle, fig.height=3, fig.width=6}
 circle_data <- datasaurus_dozen %>%
   filter(dataset == "circle")
